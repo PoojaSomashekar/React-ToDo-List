@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  width: 50%;
+  margin: 8% 0 0 25%;
+  height: auto
+}
+
+.App h2 {
+  padding: 4%;
+  margin-right: 20px;
+  color: #272727;
+}
+

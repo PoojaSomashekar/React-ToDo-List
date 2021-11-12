@@ -1,0 +1,27 @@
+form .input {
+  width: 50%;
+  border: 2px solid #272727;
+  border-radius: 10px;
+  margin: 0 0% 7% 4% ;
+  padding: 15px;
+  color: black;
+  font-weight: bold;
+   outline: none;
+}
+
+form .input:hover {
+  outline: none;
+}
+
+form button {
+  margin: 6px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none ;
+  color: white;
+  background-color: #444040;
+}
+
+form button:disabled {
+opacity: 0.7;
+}

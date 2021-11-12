@@ -1,0 +1,33 @@
+.taskDiv p {
+  font-weight: bold;
+  padding: 10px;
+  margin: 0 7% 5% 0;
+}
+
+
+.taskDiv ul {
+  width: 55%;
+  background: rgb(173, 168, 168);
+  padding: 5px;
+  margin: 0 0 2% 19%;
+  border: grey;
+  border-radius: 10px;
+}
+
+.taskDiv ul li {
+  padding: 5px;
+  list-style-type: none;
+  text-align: left;
+  font-weight: bold;
+}
+
+.taskDiv ul li button {
+  position: absolute;
+  left: 58%;
+  text-align: right;
+  color: black;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+}
+
